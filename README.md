@@ -44,11 +44,7 @@ https://api.weatherapi.com/v1/current.json?key=1234567890abcdef&q=Mumbai&aqi=no
 
 ⚡ How to Run
 
-Clone this repo
-
-git clone https://github.com/your-username/weather-app.git
 cd weather-app
-
 
 Install dependencies
 
